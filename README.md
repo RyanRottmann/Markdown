@@ -9,7 +9,7 @@
 ![alt text](https://github.com/rfrfkb/Markdown/blob/master/Truman_the_Tiger_logo.png)
 
 <br/>
-import Cocoa
+
 ```swift
 var i:Int = 1
 while  (i <= 100){
@@ -26,9 +26,3 @@ while  (i <= 100){
     i+=1
 }
 ```
-<br/>
-> I am a blockquote
-<br/>
-+Unordered list
-+item
-+item
