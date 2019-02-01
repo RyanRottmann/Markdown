@@ -50,3 +50,5 @@ Data | Data | Data
 ***
 > BlockQuote
 > BlockQuote
+Break
+> BlockQuote
