@@ -27,10 +27,8 @@ while  (i <= 100){
 }
 ```
 <br/>
-> Block Quote
-> Block Quote Line 2
-Block Quote break
-> 2nd Block Quote<br/>
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
 1. one <br/>
 2. two <br/>
 3. three
