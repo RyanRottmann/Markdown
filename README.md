@@ -27,11 +27,7 @@ while  (i <= 100){
 }
 ```
 <br/>
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+
 1. one <br/>
 2. two <br/>
 3. three
@@ -51,3 +47,5 @@ Data | Data | Data
 Data | Data | Data
 Data | Data | Data
 Data | Data | Data
+***
+> Markdown uses email-style > characters for blockquoting.
