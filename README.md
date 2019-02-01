@@ -34,19 +34,14 @@ while  (i <= 100){
 - unordered list<br/>
 - list<br/>
 - list
-<br/>
-| Column1 | Column2 | Column3 |
-| --- | --- | --- |
-| data1 | data2 | data 3 |
-| 1 | 2 | 3 |
-<br/>
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 <br/>
 **Bold Text**
 *Italicised text*
 ~~Strikethrough text~~
 ***
+<br/>
+| Column1 | Column2 | Column3 |
+| --- | --- | --- |
+| data1 | data2 | data 3 |
+| 1 | 2 | 3 |
