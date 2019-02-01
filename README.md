@@ -27,6 +27,6 @@ while  (i <= 100){
 }
 ```
 <br/>
-+unordered list . 
-+list . 
-+list 
+- unordered list . 
+- list . 
+- list 
