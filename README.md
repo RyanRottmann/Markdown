@@ -35,10 +35,10 @@ while  (i <= 100){
 - list<br/>
 - list
 <br/>
-Column1 | Column2 | Column3
---- | --- | --- 
-data1 | data2 | data 3
-1 | 2 | 3
+| Column1 | Column2 | Column3 |
+| --- | --- | --- |
+| data1 | data2 | data 3 |
+| 1 | 2 | 3 |
 <br/>
 
 **Bold Text**
