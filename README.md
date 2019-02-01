@@ -7,9 +7,10 @@
 [Link to: 2ndREADME.md](https://github.com/rfrfkb/Markdown/blob/master/2ndREADME.md)
 <br/>
 ![alt text](https://github.com/rfrfkb/Markdown/blob/master/Truman_the_Tiger_logo.png)
-import Cocoa
+
 <br/>
 ```swift
+import Cocoa
 var i:Int = 1
 while  (i <= 100){
     if (i%3 == 0 && i%5 == 0){
@@ -28,6 +29,6 @@ while  (i <= 100){
 <br/>
 > I am a blockquote
 <br/>
-..* Unordered list
-..* item
-..* item
+* Unordered list
+* item
+* item
