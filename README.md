@@ -42,5 +42,5 @@ while  (i <= 100){
 ***
 Column1 | Column2 | Column3
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*Data* | `Data` | **Data**
 1 | 2 | 3
