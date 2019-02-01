@@ -40,7 +40,7 @@ while  (i <= 100){
 *Italicised text*
 ~~Strikethrough text~~
 ***
-Markdown | Less | Pretty
+Column1 | Column2 | Column3
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
