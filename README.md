@@ -27,13 +27,14 @@ while  (i <= 100){
 }
 ```
 <br/>
-1. one . 
-2. two . 
+1. one <br/>
+2. two <br/>
 3. three
 <br/>
-- unordered list . 
-- list . 
-- list 
+- unordered list<br/>
+- list<br/>
+- list
+<br/>
 |Table 1| Column1 | Column 2|<br/>
 |-------|:-------:|--------:|<br/>
 |       | Data    | Data    |<br/>
