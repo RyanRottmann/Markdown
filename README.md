@@ -30,12 +30,13 @@ while  (i <= 100){
 1. one . 
 2. two . 
 3. three
+<br/>
 - unordered list . 
 - list . 
 - list 
-|Table 1| Column1 | Column 2|
-|-------|:-------:|--------:|
-|       | Data    | Data    |
+|Table 1| Column1 | Column 2|<br/>
+|-------|:-------:|--------:|<br/>
+|       | Data    | Data    |<br/>
 
 **Bold Text**
 *Italicised text*
