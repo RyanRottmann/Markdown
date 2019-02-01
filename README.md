@@ -34,8 +34,11 @@ while  (i <= 100){
 - unordered list<br/>
 - list<br/>
 - list
-
 <br/>
+|Table 1| Column1 | Column 2|<br/>
+|-------|:-------:|--------:|<br/>
+|       | Data    | Data    |<br/>
+
 **Bold Text**
 *Italicised text*
 ~~Strikethrough text~~
