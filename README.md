@@ -43,4 +43,4 @@ while  (i <= 100){
 Column1 | Column2 | Column3
 --- | --- | ---
 *Data* | `Data` | **Data**
-1 | 2 | 3
+Data | Data | Data
