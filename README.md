@@ -41,7 +41,7 @@ while  (i <= 100){
 ~~Strikethrough text~~
 ***
 <br/>
-| Column1 | Column2 | Column3 |
-| --- | --- | --- |
-| data1 | data2 | data 3 |
-| 1 | 2 | 3 |
+Column1 | Column2 | Column3
+--- | --- | ---
+Data1 | Data2 | Data3
+1 | 2 | 3
