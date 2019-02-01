@@ -7,7 +7,7 @@
 [Link to: 2ndREADME.md](https://github.com/rfrfkb/Markdown/blob/master/2ndREADME.md)
 <br/>
 ![alt text](https://github.com/rfrfkb/Markdown/blob/master/Truman_the_Tiger_logo.png)
-![alt text](https://missouri.edu/images/about/history/columns-4-1892-academic-hall-fire.jpg)
+![alt text](https://pbs.twimg.com/media/DyQhEn4X0AE2Y8z.jpg:large)
 <br/>
 
 ```swift
