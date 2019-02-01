@@ -7,7 +7,7 @@
 [Link to: 2ndREADME.md](https://github.com/rfrfkb/Markdown/blob/master/2ndREADME.md)
 <br/>
 ![alt text](https://github.com/rfrfkb/Markdown/blob/master/Truman_the_Tiger_logo.png)
-![alt text](https://en.wikipedia.org/wiki/The_Columns_(Columbia,_Missouri)#/media/File:Jesse_Hall_and_the_Columns,_University_of_Missouri_-_panoramio.jpg)
+![alt text](https://missouri.edu/images/about/history/columns-4-1892-academic-hall-fire.jpg)
 <br/>
 
 ```swift
