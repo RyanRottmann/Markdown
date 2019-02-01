@@ -6,7 +6,7 @@
 <br/>
 [Link to: 2ndREADME.md](https://github.com/rfrfkb/Markdown/blob/master/2ndREADME.md)
 <br/>
-![alt text](https://github.com/rfrfkb/Markdown/blob/master/Truman_the_Tiger_logo.png)
+![alt text](https://github.com/rfrfkb/Markdown/blob/master/Truman_the_Tiger_logo.png)<br/>
 [Link to: Truman The Tiger Wikipedia](https://en.wikipedia.org/wiki/Truman_the_Tiger)
       
 ![alt text](https://pbs.twimg.com/card_img/1091075015871729664/Wduyr6ND?format=jpg&name=600x314)<br/>
