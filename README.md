@@ -48,4 +48,5 @@ Data | Data | Data
 Data | Data | Data
 Data | Data | Data
 ***
-> Markdown uses email-style > characters for blockquoting.
+> BlockQuote
+> BlockQuote
