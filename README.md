@@ -35,11 +35,12 @@ while  (i <= 100){
 - list<br/>
 - list
 <br/>
+
 **Bold Text**
 *Italicised text*
 ~~Strikethrough text~~
 ***
-Column1 | Column2 | Column 3
---- | --- | --- 
-Data1 | Data2 | Data3
-3 | 2 | 1
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
