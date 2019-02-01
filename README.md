@@ -33,3 +33,6 @@ while  (i <= 100){
 - unordered list . 
 - list . 
 - list 
+|Table 1| Column1 | Column 2|
+|-------|---------|---------|
+|       | Data    | Data    |
