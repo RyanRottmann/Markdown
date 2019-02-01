@@ -35,15 +35,12 @@ while  (i <= 100){
 - list<br/>
 - list
 <br/>
-|Table 1| Column1 | Column 2|<br/>
-|-------|:-------:|--------:|<br/>
-|       | Data    | Data    |<br/>
+Column1 | Column2 | Column3
+--- | --- | --- 
+data1 | data2 | data 3
+1 | 2 | 3
 
 **Bold Text**
 *Italicised text*
 ~~Strikethrough text~~
 ***
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
