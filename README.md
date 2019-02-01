@@ -40,7 +40,6 @@ while  (i <= 100){
 *Italicised text*
 ~~Strikethrough text~~
 ***
-<br/>
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
