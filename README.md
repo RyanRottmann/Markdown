@@ -36,3 +36,8 @@ while  (i <= 100){
 |Table 1| Column1 | Column 2|
 |-------|:-------:|--------:|
 |       | Data    | Data    |
+
+**Bold Text**
+*Italicised text*
+~~Strikethrough text~~
+***
