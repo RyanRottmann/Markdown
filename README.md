@@ -27,6 +27,9 @@ while  (i <= 100){
 }
 ```
 <br/>
+1. one . 
+2. two . 
+3. three
 - unordered list . 
 - list . 
 - list 
