@@ -41,7 +41,7 @@ while  (i <= 100){
 ~~Strikethrough text~~
 ***
 <br/>
-Column1 | Column2 | Column3
+Markdown | Less | Pretty
 --- | --- | ---
-Data1 | Data2 | Data3
+*Still* | `renders` | **nicely**
 1 | 2 | 3
