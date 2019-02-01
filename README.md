@@ -39,7 +39,7 @@ while  (i <= 100){
 *Italicised text*
 ~~Strikethrough text~~
 ***
-Column1 | Column2 | Column3
---- | --- | ---
-*Data1* | `Data2` | **Data3**
+Column1 | Column2 | Column 3
+--- | --- | --- 
+Data1 | Data2 | Data3
 3 | 2 | 1
